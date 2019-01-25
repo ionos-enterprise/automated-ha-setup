@@ -21,19 +21,31 @@ After all you need to have your
 -> limits <-     on the IONOS platform high enough.
 
 - For the installation option A) you will need
+
     -- 3 customer reserved IP addresses (CRIP, the script will reserve them automatically),
+
     -- 3 cores,
+
     -- 3 GB of RAM and
+
     -- 37 GB HDD space.
+
 - For the variant B) you need all the aforementioned AND
+
     -- 2 cores
+
     -- 2 GB RAM
+
     -- at least 40 GB HDD or SSD (as you chose with '-s') or more, depending on what you give on the command line via the option '-S number'
+
 - For the variant C) you need all the aforementioned AND
+
     -- at least 600 GB HDD or SSD or more, depending on what you give on the command line via the option '-S number'
 
 Also Important is that you have a
+
 -> stable internect connection <-
+
 Even a short break would make it necessary to stop the whole process, delete an already created VDC by that script and start the whole process again.
 
 INSTALLATION
