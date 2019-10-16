@@ -43,5 +43,5 @@ INSTALLATION
 FURTHER INFORMATION
 
 More details and the intention of the programm you will find at
-https://github.com/profitbricks/automated-ha-setup/blob/master/Automated-HA-Setup.pdf
+https://github.com/ionos-enterprise/automated-ha-setup/blob/master/Automated-HA-Setup_EN.pdf
 
