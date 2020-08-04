@@ -1,9 +1,13 @@
 Readme:
 
 HA-GateAndDatabase.sh gives you the oportunity to setup either
+
 A) a simple high availability setup consisting of two virtual machines (VM) as gateways with an additional VM behind it or
+
 B) such setup with another setup of a high avalability PostgreSQL cluster.
-C) Additionally is is possible to import the MusicBrainz database into the cluster.
+
+C) Additionally it is possible to import the MusicBrainz database into the cluster.
+
 
 DEPENDENCIES
 
